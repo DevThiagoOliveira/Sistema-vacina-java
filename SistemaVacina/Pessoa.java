@@ -1,4 +1,4 @@
-package MapaSistema2.mapaModel;
+package SistemaVacina;
 
 import java.math.BigInteger;
 

@@ -1,4 +1,4 @@
-package MapaSistema2.mapaView;
+package SistemaVacina;
 
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
@@ -7,10 +7,7 @@ import java.util.Date;
 import java.util.GregorianCalendar;
 import java.util.Scanner;
 
-import MapaSistema2.mapaModel.Infermeira;
-import MapaSistema2.mapaModel.Pessoa;
-
-public class base {
+public class Sistema {
     public static void main(String[] args) {
 
         // objetos
